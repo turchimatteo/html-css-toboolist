@@ -93,7 +93,6 @@ hr {
     border: 1px solid green;
     border-radius: 23px;
     margin-right: 10px;
-    margin-left: 35px;
 }
 .cross {
     display: inline-table;
@@ -102,7 +101,7 @@ hr {
     border: 1px solid red;
     border-radius: 23px;
     margin-right: 10px;
-    margin-left: 35px;
+
 }
 
 .sublist li {
